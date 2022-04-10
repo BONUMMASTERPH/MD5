@@ -7,13 +7,27 @@ import signal
 import threading
 
 info = """
-  Name            : Python Md5 Brute-force
-  Created By      : Sefa Said Deniz
-  Blog            : sefasaiddeniz.com
-  Documentation   : https://github.com/sefasaid/python-md5-bruteforce/
-  License         : Completely Free
-  Thanks to       :  Agus Makmun (Summon Agus)-bloggersmart.net - python.web.id
-"""
+__________
+                      .~#########%%;~.
+                     /############%%;`\
+                    /##/BONUMMASTER%%;,\
+                   |#######\    /;;;;.,.|
+                   |#########\/%;;;;;.,.|
+          XX       |##/~~\####%;;;/~~\;,|       XX
+        XX..X      |#|  o  \##%;/  o  |.|      X..XX
+      XX.....X     |##\____/##%;\____/.,|     X.....XX
+ XXXXX.....XX      \#########/\;;;;;;,, /      XX.....XXXXX
+X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
+X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X
+X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
+ X# \.X        @#%,.@   UNDERGROUNDSEC  @#%,.@
+                @#%,.@              @#%,.@
+                  @#%,.@          @#%,.@
+                     @#%,.@      @#%,.@
+                       @#%.,@  @#%,.@
+                   www.facebook.com/bonum.master
+  Thanks to       :  BONUMMASTER(BONUMTEAM)-SPIDERPH
+""" 
 done = False
 def signal_handler(signal, frame):
     print 'You pressed Ctrl+C!'
